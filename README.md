@@ -14,22 +14,22 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="icons/react-native-icon.svg" alt="React Native" width="80" height="80"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="80" height="80"/>
       <br />
       React Native
     </td>
     <td align="center">
-      <img src="icons/flutter-icon.svg" alt="Flutter" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="80" height="80"/> 
       <br />
       Flutter
     </td>
     <td align="center">
-      <img src="icons/swift-icon.svg" alt="Swift" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="80" height="80"/> 
       <br />
       Swift
     </td>
     <td align="center">
-      <img src="icons/kotlin-icon.svg" alt="Kotlin" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="80" height="80"/> 
       <br />
       Kotlin
     </td>
@@ -40,17 +40,17 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="icons/nextjs-icon.svg" alt="Next.js" width="80" height="80"/>
+      <img src="https://www.vectorlogo.zone/logos/zeit/zeit-icon.svg" alt="Next.js" width="80" height="80"/>
       <br />
       Next.js
     </td>
     <td align="center">
-      <img src="icons/react-icon.svg" alt="React.js" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="80" height="80"/> 
       <br />
       React.js
     </td>
     <td align="center">
-      <img src="" alt="HTML" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="80" height="80"/> 
       <br />
       HTML
     </td>

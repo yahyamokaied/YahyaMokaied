@@ -37,7 +37,7 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/zeit/zeit-icon.svg" alt="Next.js" width="80" height="80"/>
+      <img src="https://www.vectorlogo.zone/logos/nextjs/next.svg" alt="Next.js" width="80" height="80"/>
       <br />
       Next.js
     </td>
@@ -62,7 +62,7 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="AWS" width="80" height="80"/> 
+      <img src=""https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="80"/> 
       <br />
       AWS
     </td>

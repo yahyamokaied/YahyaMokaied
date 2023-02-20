@@ -81,9 +81,9 @@
       SQLite
     </td>
   </tr>
-</div>
-
-<h3 align="center">My Apps</h3>
+  
+  
+  <h3 align="center">My Apps</h3>
 
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
@@ -101,7 +101,5 @@
     </td>
   </tr>
 </table>
-
-  </div>
 
 

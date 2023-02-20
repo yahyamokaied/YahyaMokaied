@@ -1,73 +1,88 @@
-![githubpage-01](https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png)
-
+<!-- Add a banner image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png" alt="githubpage-01"/>
+  <img src="https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png" alt="githubpage-01" />
 </p>
 
-<h1 align="center">Hello 👋, I'm <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a></h1>
-
-<!-- What am I? -->
+<!-- Add an introduction -->
+<h1 align="center">Hello, I'm <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a> 👋</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-<h3 align="center">Mobile (React Native - Flutter - Swift - Kotlin)</h3>
-<h3 align="center">Web (Next.js, React.js, HTML, CSS, SASS, SCSS)</h3>
-<h3 align="center">Back-end (AWS-Lambda-Dynamo-Cognito-S3, MongoDB, SQL, Firebase)</h3>
+<!-- Add a list of skills -->
+<h3 align="center">Skills:</h3>
 
-<br/>
+<!-- Add a table for mobile technologies -->
+<table align="center" border="0" cellspacing="20" cellpadding="20">
+  <tr>
+    <td align="center">
+      <img src="icons/react-native-icon.svg" alt="React Native" width="80" height="80"/>
+      <br />
+      React Native
+    </td>
+    <td align="center">
+      <img src="icons/flutter-icon.svg" alt="Flutter" width="80" height="80"/> 
+      <br />
+      Flutter
+    </td>
+    <td align="center">
+      <img src="icons/swift-icon.svg" alt="Swift" width="80" height="80"/> 
+      <br />
+      Swift
+    </td>
+    <td align="center">
+      <img src="icons/kotlin-icon.svg" alt="Kotlin" width="80" height="80"/> 
+      <br />
+      Kotlin
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yahyamokaied/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin"/>
-  </a>
-</p>
+<!-- Add a table for web technologies -->
+<table align="center" border="0" cellspacing="20" cellpadding="20">
+  <tr>
+    <td align="center">
+      <img src="icons/nextjs-icon.svg" alt="Next.js" width="80" height="80"/>
+      <br />
+      Next.js
+    </td>
+    <td align="center">
+      <img src="icons/react-icon.svg" alt="React.js" width="80" height="80"/> 
+      <br />
+      React.js
+    </td>
+    <td align="center">
+      <img src="icons/html-icon.svg" alt="HTML" width="80" height="80"/> 
+      <br />
+      HTML
+    </td>
+    <td align="center">
+      <img src="icons/css-icon.svg" alt="CSS" width="80" height="80"/> 
+      <br />
+      CSS
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Flutter     -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-<!--   Dart   -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-<!--  Android  -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
-<!-- Git  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-<!--   Python   -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-<!--   Tensorflow   -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-<!--   Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-<!-- Mysql  -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
- <!--   Sqlite   -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-<!--  Html    -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-<!--   Bootstap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/?
-  </a> 
-<!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- Add a table for backend technologies -->
+<table align="center" border="0" cellspacing="20" cellpadding="20">
+  <tr>
+    <td align="center">
+      <img src="icons/aws-icon.svg" alt="AWS" width="80" height="80"/> 
+      <br />
+      AWS
+    </td>
+    <td align="center">
+      <img src="icons/mongodb-icon.svg" alt="MongoDB" width="80" height="80"/> 
+      <br />
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="icons/mysql-icon.svg" alt="MySQL" width="80" height="80"/> 
+      <br />
+      MySQL
+    </td>
+    <td align="center">
+      <img src="icons/sqlite-icon.svg" alt="SQLite" width="80" height="80"/> 
+      <br />
+      SQLite
+    </td>
+  </tr

@@ -1,21 +1,25 @@
 ![githubpage-01](https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png)
 
-<h1 align="center">Hello 👋, I'm 
-  <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a>
-</h1>
-<!--  What am I? -->
-<h3 align="center">Fullt-Stack Software engineer</h3>
-<h3 align="center">Mobile (React Native - Flutter - Swift - Kotlin)</h4>
-<h3 align="center">Web (Next.js, React.js, HTML, CSS, SASS, SCSS)</h4>
-<h3 align="center">Back-end (AWS-Lambda-Dynamo-Cognito-S3, MongoDb, SQL, Firebase)</h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png" alt="githubpage-01"/>
+</p>
+
+<h1 align="center">Hello 👋, I'm <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a></h1>
+
+<!-- What am I? -->
+<h3 align="center">Full-Stack Software Engineer</h3>
+
+<h3 align="center">Mobile (React Native - Flutter - Swift - Kotlin)</h3>
+<h3 align="center">Web (Next.js, React.js, HTML, CSS, SASS, SCSS)</h3>
+<h3 align="center">Back-end (AWS-Lambda-Dynamo-Cognito-S3, MongoDB, SQL, Firebase)</h3>
 
 <br/>
 
-[![Linkedin: YahyaMokaied](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yahyamokaied/)[linkedin]
-
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahyamokaied/">
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

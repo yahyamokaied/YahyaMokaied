@@ -1,8 +1,14 @@
 
-[![Linkedin: YahyaMokaied](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yahyamokaied/)](https://www.linkedin.com/in/yahyamokaied/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahyamokaied/">
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin: YahyaMokaied"/>
+  </a>
+</p>
+
 
 
 <hr>
+<h1 align="center">Hello, It's Me, <b>Yahya Mokaied</b> 👋</h1>
 <h4 align="center">Full-Stack Software Engineer</h4>
 <hr>
 

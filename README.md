@@ -1,9 +1,4 @@
-<!-- Add a banner image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png" alt="githubpage-01" />
-</p>
-
-<h1 align="center">Hello, I'm <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a> 👋</h1>
+<h1 align="center">Hello, It's Me, <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a>  👋</h1>
 
 <h3 align="center">Experience:</h3>
 <p align="center">I have experience working in hybrid teams using agile methodologies to build applications with clean code architecture. I take pride in writing high-quality code and working closely with QA Engineers and designers to ensure that all features and functionality meet the highest standards of quality and client expectations.</p>
@@ -87,8 +82,9 @@
       SQLite
     </td>
   </tr>
+</div>
 
-<h2>My Apps</h2>
+<h3 align="center">My Apps</h3>
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px;">
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-right: 20px; margin-left: 20px;">
     <a href="https://apps.apple.com/us/app/daypay/id1642097718">
@@ -102,6 +98,5 @@
     </a>
     <p style="text-align: center; margin-top: 10px;">DayPay</p>
   </div>
-</div>
 
 

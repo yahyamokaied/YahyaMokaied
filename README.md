@@ -103,12 +103,12 @@
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=se.apphallen.daypay">
-        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="100" height="120">
+        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="50" height="60">
       </a>
     </td>
     <td align="center">
       <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="100" height="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="50" height="60">
       </a>
     </td>
   </tr>

@@ -37,7 +37,7 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="Next.js" width="80" height="80"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="80" height="80"/>
       <br />
       Next.js
     </td>
@@ -106,7 +106,7 @@
     </td>
     <td align="center">
       <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-        <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="DayPay for iOS" width="120" height="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="120" height="120">
       </a>
     </td>
   </tr>

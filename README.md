@@ -88,25 +88,32 @@
 
 <h3 align="center">My Apps</h3>
 <table align="center" border="0" cellspacing="20" cellpadding="20">
-  <tr>
+  
+    <tr>
     <td align="center">
       <a href="https://apps.apple.com/us/app/daypay/id1642097718">
         <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
       </a>
     </td>
+  </tr>
+  
+  
+  <tr>
     <td align="center">
       <h4>DayPay</h4>
     </td>
   </tr>
+  
+  
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=se.apphallen.daypay">
-        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="120" height="120">
+        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="100" height="120">
       </a>
     </td>
     <td align="center">
       <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="120" height="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="100" height="120">
       </a>
     </td>
   </tr>

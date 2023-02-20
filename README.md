@@ -99,7 +99,7 @@
 <tr>
 <td align="center" colspan="2">
 <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5a/38/51/5a38512e-d070-a5de-cfdf-a12abd8e6e8e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="MrChat for iOS" width="120" height="120">
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5a/38/51/5a38512e-d070-a5de-cfdf-a12abd8e6e8e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="MrChat App" width="120" height="120">
 </a>
 </td>
 </tr>
@@ -127,7 +127,7 @@
 <tr>
 <td align="center" colspan="2">
 <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
+<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay App" width="120" height="120">
 </a>
 </td>
 </tr>
@@ -163,8 +163,7 @@
 </tr>
 <tr>
 <td align="center" colspan="2">
-<a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
+<a href="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/21/53/3f/21533f9a-9897-8462-34c0-d769b9cfa8fb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Mindler App" width="120" height="120">
 </a>
 </td>
 </tr>
@@ -191,8 +190,8 @@
 </tr>
 <tr>
 <td align="center" colspan="2">
-<a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
+<a href="[https://apps.apple.com/us/app/daypay/id1642097718">
+<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/80/bf/ff/80bfff73-a200-958e-32de-0a59d11a536a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Findout Diagnostic App" width="120" height="120">
 </a>
 </td>
 </tr>

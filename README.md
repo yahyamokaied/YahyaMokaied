@@ -78,21 +78,24 @@
     </td>
   </tr>
 </table>
-<h3 align="center">My Apps</h3>
-<!-- Add a table for mobile apps -->
+
+
+<h3 align="center">My Apps:</h3>
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <a href="https://apps.apple.com/us/app/daypay/id1642097718">
-        <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
-      </a>
-      <p style="text-align: center; margin-top: 10px;">DayPay for iOS</p>
+      <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay" width="120" height="120">
+      <p style="text-align: center; margin-top: 10px;">DayPay</p>
     </td>
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=se.apphallen.daypay">
-        <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="120" height="120">
-      </a>
-      <p style="text-align: center; margin-top: 10px;">DayPay for Android</p>
+      <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play" width="120" height="120" onClick="window.open('https://play.google.com/store/apps/details?id=se.apphallen.daypay')">
+      <p style="text-align: center; margin-top: 10px;">Available on Google Play</p>
+    </td>
+    <td align="center">
+      <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay" width="120" height="120" onClick="window.open('https://apps.apple.com/us/app/daypay/id1642097718')">
+      <p style="text-align: center; margin-top: 10px;">Available on the App Store</p>
     </td>
   </tr>
+</table>
+
 </table>

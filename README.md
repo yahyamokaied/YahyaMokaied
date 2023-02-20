@@ -3,7 +3,6 @@
 
 
 <hr>
-<h1 align="center">Hello, It's Me, <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a> 👋</h1>
 <h4 align="center">Full-Stack Software Engineer</h4>
 <hr>
 

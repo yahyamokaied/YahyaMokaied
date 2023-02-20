@@ -6,10 +6,8 @@
 </p>
 
 
+<h2 align="center">Hello, It's Me <b>Yahya Mokaied</b><br><h4 align="center">Full-Stack Software Engineer</h4></h2>
 
-<hr>
-<h2 align="center">Hello, It's Me <b>Yahya Mokaied</b></h2>
-<h4 align="center">Full-Stack Software Engineer</h4>
 <hr>
 
 <h3 align="center">My Experience:</h3>

@@ -1,11 +1,11 @@
 <h1 align="center">Hello, It's Me, <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a>  👋</h1>
 
-<h3 align="center">Experience:</h3>
+<h3 align="center">My Experience:</h3>
 <p align="center">I have experience working in hybrid teams using agile methodologies to build applications with clean code architecture. I take pride in writing high-quality code and working closely with QA Engineers and designers to ensure that all features and functionality meet the highest standards of quality and client expectations.</p>
 
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">My Skills:</h3>
 
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>

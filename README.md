@@ -50,12 +50,12 @@
       React.js
     </td>
     <td align="center">
-      <img src="icons/html-icon.svg" alt="HTML" width="80" height="80"/> 
+      <img src="" alt="HTML" width="80" height="80"/> 
       <br />
       HTML
     </td>
     <td align="center">
-      <img src="icons/css-icon.svg" alt="CSS" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" width="80" height="80"/> 
       <br />
       CSS
     </td>
@@ -66,22 +66,22 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center">
-      <img src="icons/aws-icon.svg" alt="AWS" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="AWS" width="80" height="80"/> 
       <br />
       AWS
     </td>
     <td align="center">
-      <img src="icons/mongodb-icon.svg" alt="MongoDB" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="80" height="80"/> 
       <br />
       MongoDB
     </td>
     <td align="center">
-      <img src="icons/mysql-icon.svg" alt="MySQL" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="80" height="80"/> 
       <br />
       MySQL
     </td>
     <td align="center">
-      <img src="icons/sqlite-icon.svg" alt="SQLite" width="80" height="80"/> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="80" height="80"/> 
       <br />
       SQLite
     </td>

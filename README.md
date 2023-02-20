@@ -94,7 +94,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://apps.apple.com/us/app/daypay/id1642097718">
         <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay for iOS" width="120" height="120">
       </a>

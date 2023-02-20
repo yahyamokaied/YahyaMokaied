@@ -1,26 +1,23 @@
 ![githubpage-01](https://user-images.githubusercontent.com/50097658/100131740-bb6d5f00-2e84-11eb-9daf-d3e422332693.png)
 
-<!-- ME  -->
 <h1 align="center">Hello 👋, I'm 
   <a href="https://www.github.com/yahyamokaied">Yahya Mokaied</a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Software engineer | Mobile developer(React Native - Flutter - Swift - Kotlin) | Web developer(Next, React, CSS, HTML, SASS, SCSS)</h3>
+<h3 align="center">Fullt-Stack Software engineer</h3>
+<h3 align="center">Mobile (React Native - Flutter - Swift - Kotlin)</h4>
+<h3 align="center">Web (Next.js, React.js, HTML, CSS, SASS, SCSS)</h4>
+<h3 align="center">Back-end (AWS-Lambda-Dynamo-Cognito-S3, MongoDb, SQL, Firebase)</h4>
 
 <br/>
-<!-- Social -->
 
-[![Linkedin: YahyaMokaied](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yahyamokaied/)][linkedin]
+[![Linkedin: YahyaMokaied](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yahyamokaied/)[linkedin]
 
-<!--  Stats -->
-<p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yahyamokaied&show_icons=true&theme=radical" />
-   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyamokaied&layout=compact&show_icons=true&theme=radical" />
-</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
-<!--  Skills -->
 <p align="left">
 <!-- Flutter     -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">

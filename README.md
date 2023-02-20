@@ -8,7 +8,7 @@
 
 
 <hr>
-<h1 align="center">Hello, It's Me, <b>Yahya Mokaied</b> 👋</h1>
+<h2 align="center">Hello, It's Me <b>Yahya Mokaied</b></h2>
 <h4 align="center">Full-Stack Software Engineer</h4>
 <hr>
 

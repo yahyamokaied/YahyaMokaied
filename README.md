@@ -105,13 +105,13 @@
 </tr>
 <tr>
 <td align="center">
-<a href="">
+<a href="#">
 <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="MrChat for Android" width="50" height="60">
 </a>
 </td>
 <td align="center">
 <a href="https://apps.apple.com/us/app/mrchat/id1529816665">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="50" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="MrChat for iOS" width="50" height="60">
 </a>
 </td>
 </tr>
@@ -168,7 +168,7 @@
 </tr>
 <tr>
 <td align="center">
-<a href="">
+<a href="#">
 <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Mindler for Android" width="50" height="60">
 </a>
 </td>
@@ -194,13 +194,13 @@
 </tr>
 <tr>
 <td align="center">
-<a href="">
-<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="50" height="60">
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Findout Diagnostic for Android" width="50" height="60">
 </a>
 </td>
 <td align="center">
 <a href="https://apps.apple.com/se/app/findout-diagnostic/id1315956369?l=en">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="50" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Findout Diagnostic for iOS" width="50" height="60">
 </a>
 </td>
 </tr>

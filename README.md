@@ -129,25 +129,25 @@
 <table align="center" border="0" cellspacing="20" cellpadding="20">
 <tr>
 <td align="center" colspan="2">
-<h4>DayPay</h4>
+<h4>Tween AI</h4>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/fc/95/73fc9582-be68-058d-4449-ca24d9864bbe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="DayPay App" width="120" height="120">
+<a href="">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/53/27/ef532713-ecf1-06a2-e687-cc96967bfdf6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" alt="Tween AI App" width="120" height="120">
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=se.apphallen.daypay">
-<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="DayPay for Android" width="50" height="60">
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Tween for Android" width="50" height="60">
 </a>
 </td>
 <td align="center">
-<a href="https://apps.apple.com/us/app/daypay/id1642097718">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="DayPay for iOS" width="50" height="60">
+<a href="https://apps.apple.com/us/app/tween-ai/id1642097718">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Tween for iOS" width="50" height="60">
 </a>
 </td>
 </tr>

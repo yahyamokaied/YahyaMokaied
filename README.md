@@ -1,5 +1,5 @@
-<h1 align="center">Yahya Mokaied</h1>
-<h4 align="center">Full-Stack Software Engineer</h4>
+<h1 align="center">John Mokaied</h1>
+<h4 align="center">Senior Full-Stack Software Engineer</h4>
 
 
 <p align="center">
